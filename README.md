@@ -28,8 +28,6 @@ first save dialog.
 - `Handler`: `MMJoystick`
 - `Device`: `Joystick #1`
 
-Suggested mapping. `Button N` is bit `N-1` of the button bitmask.
-
 | PS3 | Binding | PS3 | Binding |
 |---|---|---|---|
 | Cross | `Button 1` | Select | `Button 9` |
